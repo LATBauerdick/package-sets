@@ -209,7 +209,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-orders.git",
-    "version": "v2.0.0"
+    "version": "v2.0.1"
   },
   "partial": {
     "dependencies": [],
