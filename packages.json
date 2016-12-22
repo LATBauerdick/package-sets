@@ -219,7 +219,7 @@
   "prelude": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-prelude.git",
-    "version": "v2.1.0p11"
+    "version": "v2.1.0.1p11"
   },
   "profunctor": {
     "dependencies": [
