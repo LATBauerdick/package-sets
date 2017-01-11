@@ -23,7 +23,7 @@
       "eff"
     ],
     "repo": "https://github.com/pure11/purescript-console.git",
-    "version": "v1.0.0p11"
+    "version": "v2.0.0p11"
   },
   "const": {
     "dependencies": [
@@ -85,7 +85,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-eff.git",
-    "version": "v1.0.0p11"
+    "version": "v2.0.0p11"
   },
   "either": {
     "dependencies": [
@@ -99,7 +99,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-either.git",
-    "version": "v2.0.0"
+    "version": "v2.1.0"
   },
   "foldable-traversable": {
     "dependencies": [
@@ -112,7 +112,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-foldable-traversable.git",
-    "version": "master"
+    "version": "v2.0.1.1p11"
   },
   "functions": {
     "dependencies": [
@@ -130,7 +130,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-generics-rep.git",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   },
   "identity": {
     "dependencies": [
@@ -177,14 +177,14 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-monoid.git",
-    "version": "v2.0.0"
+    "version": "v2.2.0"
   },
   "newtype": {
     "dependencies": [
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-newtype.git",
-    "version": "v1.0.0"
+    "version": "v1.1.0"
   },
   "nonempty": {
     "dependencies": [
@@ -209,12 +209,12 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-orders.git",
-    "version": "v2.0.0"
+    "version": "v2.0.1"
   },
   "partial": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-partial.git",
-    "version": "master"
+    "version": "v1.2.0p11"
   },
   "prelude": {
     "dependencies": [],
@@ -250,7 +250,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-st.git",
-    "version": "v1.0.0p11"
+    "version": "v2.0.0p11"
   },
   "tuples": {
     "dependencies": [
