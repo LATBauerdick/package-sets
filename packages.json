@@ -279,6 +279,11 @@
     "repo": "https://github.com/purescript/purescript-type-equality.git",
     "version": "v1.0.0"
   },
+  "typelevel-prelude": {
+    "dependencies": [],
+    "repo": "https://github.com/purescript/purescript-typelevel-prelude.git",
+    "version": "29a7123a0c29c85d4b923fcf4a7df8e45ebf9bac"
+  },
   "unsafe-coerce": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-unsafe-coerce.git",
