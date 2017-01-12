@@ -252,6 +252,14 @@
     "repo": "https://github.com/pure11/purescript-st.git",
     "version": "v2.0.0p11"
   },
+  "symbols": {
+    "dependencies": [
+      "prelude",
+      "unsafe-coerce"
+    ],
+    "repo": "https://github.com/purescript/purescript-symbols.git",
+    "version": "v2.0.0"
+  },
   "tuples": {
     "dependencies": [
       "bifunctors",
