@@ -271,6 +271,26 @@
     "repo": "https://github.com/purescript/purescript-symbols.git",
     "version": "v2.0.0"
   },
+  "tailrec": {
+    "dependencies": [
+      "bifunctors",
+      "console",
+      "control",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "partial",
+      "prelude",
+      "st"
+    ],
+    "repo": "https://github.com/purescript/purescript-tailrec.git",
+    "version": "v2.0.1"
+  },
   "tuples": {
     "dependencies": [
       "bifunctors",
