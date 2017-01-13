@@ -295,6 +295,22 @@
     "repo": "https://github.com/purescript/purescript-typelevel-prelude.git",
     "version": "v1.0.0"
   },
+  "unfoldable": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "partial",
+      "prelude",
+      "tuples"
+    ],
+    "repo": "https://github.com/pure11/purescript-unfoldable.git",
+    "version": "v2.0.0p11"
+  },
   "unsafe-coerce": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-unsafe-coerce.git",
