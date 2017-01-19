@@ -263,6 +263,21 @@
     "repo": "https://github.com/pure11/purescript-st.git",
     "version": "v2.0.0p11"
   },
+  "strings": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "either",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "prelude"
+    ],
+    "repo": "https://github.com/pure11/purescript-strings.git",
+    "version": "v2.1.0p11"
+  },
   "symbols": {
     "dependencies": [
       "prelude",
