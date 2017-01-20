@@ -145,6 +145,34 @@
     "repo": "https://github.com/pure11/purescript-functions.git",
     "version": "v1.0.0p11"
   },
+  "generics": {
+    "dependencies": [
+      "arrays",
+      "assert",
+      "bifunctors",
+      "console",
+      "control",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "proxy",
+      "st",
+      "strings",
+      "tailrec",
+      "tuples",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/pure11/purescript-generics.git",
+    "version": "v3.3.0p11"
+  },
   "generics-rep": {
     "dependencies": [
       "control",
