@@ -1,4 +1,28 @@
 {
+  "arrays": {
+    "dependencies": [
+      "bifunctors",
+      "console",
+      "control",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "st",
+      "tailrec",
+      "tuples",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/pure11/purescript-arrays.git",
+    "version": "v3.1.0p11"
+  },
   "assert": {
     "dependencies": [
       "console",
