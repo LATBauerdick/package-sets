@@ -21,7 +21,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/pure11/purescript-arrays.git",
-    "version": "master"
+    "version": "working"
   },
   "assert": {
     "dependencies": [
@@ -208,7 +208,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-foldable-traversable.git",
-    "version": "master"
+    "version": "working"
   },
   "free": {
     "dependencies": [
