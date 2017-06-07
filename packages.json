@@ -21,7 +21,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/pure11/purescript-arrays.git",
-    "version": "working"
+    "version": "master"
   },
   "assert": {
     "dependencies": [
@@ -77,7 +77,7 @@
       "eff"
     ],
     "repo": "https://github.com/pure11/purescript-console.git",
-    "version": "master"
+    "version": "merge-0.11.4"
   },
   "const": {
     "dependencies": [
@@ -139,7 +139,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-eff.git",
-    "version": "master"
+    "version": "merge-0.11.4"
   },
   "either": {
     "dependencies": [
@@ -208,7 +208,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-foldable-traversable.git",
-    "version": "working"
+    "version": "master"
   },
   "free": {
     "dependencies": [
@@ -643,7 +643,7 @@
   "prelude": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-prelude.git",
-    "version": "master"
+    "version": "merge-0.11.4"
   },
   "profunctor": {
     "dependencies": [
@@ -909,7 +909,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-strings.git",
-    "version": "working"
+    "version": "master"
   },
   "symbols": {
     "dependencies": [
