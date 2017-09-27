@@ -1052,7 +1052,7 @@
       "math",
       "maybe"
     ],
-    "repo": "https://github.com/sharkdp/purescript-numbers.git",
+    "repo": "https://github.com/LATBauerdick/purescript-numbers.git",
     "version": "master"
   },
   "validation": {
