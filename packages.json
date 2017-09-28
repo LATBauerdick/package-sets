@@ -653,7 +653,7 @@
   },
   "prelude": {
     "dependencies": [],
-    "repo": "https://github.com/pure11/purescript-prelude.git",
+    "repo": "https://github.com/LATBauerdick/purescript-prelude.git",
     "version": "merge-0.11.4"
   },
   "profunctor": {
