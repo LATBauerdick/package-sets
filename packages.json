@@ -138,7 +138,7 @@
     "dependencies": [
       "prelude"
     ],
-    "repo": "https://github.com/pure11/purescript-eff.git",
+    "repo": "https://github.com/LATBauerdick/purescript-eff.git",
     "version": "merge-0.11.4"
   },
   "either": {
