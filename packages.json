@@ -1055,6 +1055,16 @@
     "repo": "https://github.com/LATBauerdick/purescript-numbers.git",
     "version": "master"
   },
+  "format": {
+    "dependencies": [
+      "arrays",
+      "integers",
+      "lazy",
+      "strings"
+    ],
+    "repo": "https://github.com/sharkdp/purescript-format",
+    "version": "v3.0.0"
+  },
   "validation": {
     "dependencies": [
       "bifunctors",
